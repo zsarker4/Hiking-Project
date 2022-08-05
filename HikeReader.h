@@ -1,13 +1,3 @@
-/*
-	Hello World
-
-	Tran, Kim Thien
-	Sarker, Zahradinee
-
-	Spring 2022
-	CS A250 - C++ 2
-	Project: Hiking in the US
-*/
 #ifndef HIKELISTREADER_H
 #define HIKELISTREADER_H
 
